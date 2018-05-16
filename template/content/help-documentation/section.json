@@ -1,0 +1,7 @@
+{
+	"showSubtitlesInSidebar": true,
+	"title": "Help Documentation",
+	"icon": "blabla",
+	"order": 2,
+	"main": "./index.js"
+}

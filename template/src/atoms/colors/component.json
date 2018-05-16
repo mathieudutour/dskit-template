@@ -1,0 +1,7 @@
+{
+	"name": "colors",
+	"displayName": "Colors",
+	"main": "./index",
+	"doc": "./doc",
+	"order": 1
+}
